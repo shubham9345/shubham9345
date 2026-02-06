@@ -52,6 +52,7 @@
 ---
 
 ## 🧠 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
@@ -65,47 +66,29 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
+---
 
-# 🧩 Core Engineering Skills
-✔️ Data Structures & Algorithms  
-✔️ OOP & Design Principles  
-✔️ SQL & Query Optimization  
-✔️ REST API Design  
-✔️ Low Level Design (LLD)  
-✔️ High Level Design (HLD / System Design)  
-✔️ Microservices Architecture  
+# 💼 Experience
+
+## 🏢 Infosys Springboard — Java Developer Intern
+📅 **Nov 2025 – Jan 2026 | Remote**
+
+- Developed **ResolveIT**, a Smart Grievance & Feedback Management System with scalable backend architecture  
+- Implemented **JWT-based authentication & role-based authorization** using Spring Security  
+- Secured and optimized **RESTful APIs** following industry best practices  
+- Integrated **Email Notification Service (Java Mail Sender)** for real-time grievance updates  
+- Improved maintainability, performance, and system reliability  
 
 ---
 
-# 🚀 Projects
+## 🏢 Converteasly — Java Developer Intern
+📅 **May 2025 – Aug 2025 | Remote**
 
-### 🔹 Connectify
-Social networking platform to connect students and professionals with messaging & collaboration features.
-
-### 🔹 Campus AI
-AI-powered campus assistant for smart query handling, schedules, and automation.
-
-### 🔹 ResolveIt
-Complaint/Ticket management system with tracking, resolution workflow & role-based access.
-
-### 🔹 Quelet
-Virtual queue & appointment booking system using Spring Boot with dynamic scheduling and QR-based verification.
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham9345&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham9345&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham9345&layout=compact&theme=tokyonight" />
-</p>
+- Developed **clean, efficient, and scalable backend code** used in production systems  
+- Integrated new tools and features, increasing **new users by 10%**  
+- Optimized backend logic and reduced **file sizes by 30%**, improving speed & latency  
+- Collaborated with engineering team on **system architecture & code quality improvements**  
+- 📜 Certificate of Completion  
 
 ---
 
@@ -118,9 +101,8 @@ Virtual queue & appointment booking system using Spring Boot with dynamic schedu
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (add link)
-- Portfolio: (add link)
-- Email: (add email)
+- LinkedIn: https://www.linkedin.com/in/shubham-kumar-07596728a/
+- Email: kumarshubham2005a@gmail.com
 
 ---
 
